@@ -1,0 +1,9 @@
+[package]
+name = "elliptic-curve-ops"
+version = "0.1.0"
+edition = "2021"
+description = "Elliptic curve arithmetic over finite fields with point operations, scalar multiplication, order computation, and point compression"
+license = "MIT"
+repository = "https://github.com/SuperInstance/elliptic-curve-ops"
+keywords = ["elliptic-curve", "cryptography", "finite-field", "math"]
+categories = ["cryptography", "mathematics"]
